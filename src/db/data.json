@@ -1,0 +1,64 @@
+{
+  "Teams": [
+    {
+      "id": "C101",
+      "game": 1,
+      "win": 1,
+      "lose": 0,
+      "draw": 0,
+      "gd": 2,
+      "gf": 3,
+      "ga": 1,
+      "point": 3
+    },
+    {
+      "id": "C102",
+      "game": 1,
+      "win": 0,
+      "lose": 1,
+      "draw": 0,
+      "gd": -2,
+      "gf": 1,
+      "ga": 3,
+      "point": 0
+    },
+    {
+      "id": "C103",
+      "game": 1,
+      "win": 1,
+      "lose": 0,
+      "draw": 0,
+      "gd": 4,
+      "gf": 4,
+      "ga": 0,
+      "point": 3
+    },
+    {
+      "id": "C104",
+      "game": 1,
+      "win": 0,
+      "lose": 1,
+      "draw": 0,
+      "gd": -4,
+      "gf": 0,
+      "ga": 4,
+      "point": 0
+    }
+  ],
+  "Results": [
+    {
+      "id": 1,
+      "win": "C101",
+      "winscore": 3,
+      "lose": "C102",
+      "losescore": 1
+    },
+    {
+      "id": 2,
+      "win": "C103",
+      "winscore": 4,
+      "lose": "C104",
+      "losescore": 0
+    }
+  ]
+}
