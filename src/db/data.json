@@ -2,47 +2,47 @@
   "Teams": [
     {
       "id": "C101",
-      "game": 1,
-      "win": 1,
-      "lose": 0,
-      "draw": 0,
-      "gd": 2,
-      "gf": 3,
-      "ga": 1,
-      "point": 3
+      "game": 4,
+      "win": 2,
+      "lose": 1,
+      "draw": 1,
+      "gd": 3,
+      "gf": 7,
+      "ga": 4,
+      "point": 7
     },
     {
       "id": "C102",
-      "game": 1,
+      "game": 3,
       "win": 0,
-      "lose": 1,
+      "lose": 3,
       "draw": 0,
-      "gd": -2,
-      "gf": 1,
-      "ga": 3,
+      "gd": -7,
+      "gf": 4,
+      "ga": 11,
       "point": 0
     },
     {
       "id": "C103",
-      "game": 1,
-      "win": 1,
-      "lose": 0,
-      "draw": 0,
-      "gd": 4,
-      "gf": 4,
-      "ga": 0,
-      "point": 3
+      "game": 4,
+      "win": 2,
+      "lose": 1,
+      "draw": 1,
+      "gd": 2,
+      "gf": 8,
+      "ga": 6,
+      "point": 7
     },
     {
       "id": "C104",
-      "game": 1,
-      "win": 0,
+      "game": 3,
+      "win": 2,
       "lose": 1,
       "draw": 0,
-      "gd": -4,
-      "gf": 0,
-      "ga": 4,
-      "point": 0
+      "gd": 2,
+      "gf": 7,
+      "ga": 5,
+      "point": 6
     }
   ],
   "Results": [
@@ -56,8 +56,43 @@
     {
       "id": 2,
       "win": "C103",
-      "winscore": 4,
+      "winscore": 5,
       "lose": "C104",
+      "losescore": 2
+    },
+    {
+      "id": 3,
+      "win": "C101",
+      "winscore": 3,
+      "lose": "C103",
+      "losescore": 0
+    },
+    {
+      "id": 4,
+      "win": "C104",
+      "winscore": 4,
+      "lose": "C102",
+      "losescore": 0
+    },
+    {
+      "id": 5,
+      "win": "C103",
+      "winscore": 1,
+      "lose": "C101",
+      "losescore": 1
+    },
+    {
+      "id": 6,
+      "win": "C104",
+      "winscore": 2,
+      "lose": "C102",
+      "losescore": 1
+    },
+    {
+      "id": 7,
+      "win": "C103",
+      "winscore": 2,
+      "lose": "C101",
       "losescore": 0
     }
   ]
